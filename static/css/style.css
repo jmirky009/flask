@@ -1,0 +1,9 @@
+.col-md-5 img{
+    width:100%;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.featurette{
+    margin-bottom: 50px;
+}
